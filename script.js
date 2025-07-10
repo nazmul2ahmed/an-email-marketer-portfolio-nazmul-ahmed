@@ -1,6 +1,4 @@
 
-
-
 document.addEventListener('DOMContentLoaded', function () {
     // Slider functionality
     const slider = document.querySelector('.slider');
